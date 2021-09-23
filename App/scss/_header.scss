@@ -1,4 +1,7 @@
 .header{
+    //brings the menu to the front
+    position: relative;
+    z-index: 1; 
 
     //Hamburger open styles
     &.open{
